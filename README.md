@@ -74,4 +74,4 @@ BootDo 提供了常用工具进行封装，包括日志工具、缓存工具、�
 
 <img src="https://github.com/yushouling/bootdo/blob/master/pics/bootdo1.jpg">
 
-<img src="https://github.com/yushouling/bootdo/blob/master/pics/bootdo2.jpg">
+<img src="https://github.com/yushouling/bootdo/blob/master/pics/bootdo2.png">
